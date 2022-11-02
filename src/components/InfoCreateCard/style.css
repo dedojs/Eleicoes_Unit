@@ -1,0 +1,56 @@
+.containerPageInfoCard {
+  align-items: center;
+  background-color: rgba(255, 255, 255, 0.616);
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 20px;
+  width: 400px;
+}
+
+.containerPageCreateCard {
+  align-items: center;
+  font-size: 2rem;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  height: 600px;
+  width: 400px;
+}
+
+.containerForm {
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+  width: 90%;
+}
+
+.containerForm input {
+  border: 2px solid gray;
+  border-radius: 10px;
+  margin-top: 10px;
+  padding: 10px;
+  width: 100%;
+}
+
+.containerPageInfoCard button {
+  background-color: #002776;
+  border: none;
+  border-radius: 10px;
+  color: white;
+  font-weight: 700;
+  font-size: 18px;
+  padding: 10px;
+  width: 60%;
+}
+
+.containerCards {
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  margin-top: 10px;
+  width: 80%;
+}

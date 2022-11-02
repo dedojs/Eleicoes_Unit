@@ -1,0 +1,12 @@
+.containerFooter {
+  border: solid 1px black;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  padding: 20px;
+  width: 100%;
+}
+
+.containerFooter h1 {
+  font-size: 2rem;
+}
