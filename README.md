@@ -13,3 +13,5 @@ O sistema possui as funcionalidades de:
 - Relatório da votação.
 
 Os dados são armazenados em um banco MySQL.
+
+VÍDEO APRESENTAÇÃO DO PROJETO: https://www.youtube.com/watch?v=HpI_Muuqt28
